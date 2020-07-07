@@ -47,7 +47,7 @@
 - /8 would mean the last 3 numbers could range from 0.0.0 to 255.255.255
 - /16 would mean the last 2 numbers could range from 0.0 to 255.255 but the first 2 numbers are FIXED
 
-#### You get where this is going? 
+You get where this is going? 
 
 
 
